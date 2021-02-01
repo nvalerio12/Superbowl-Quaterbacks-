@@ -1,0 +1,22 @@
+{
+  "name": "superbowl-quaterbacks-",
+  "version": "1.0.0",
+  "description": "Codealong for express views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvalerio12/Superbowl-Quaterbacks-.git"
+  },
+  "author": "Nelson Valerio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvalerio12/Superbowl-Quaterbacks-/issues"
+  },
+  "homepage": "https://github.com/nvalerio12/Superbowl-Quaterbacks-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
